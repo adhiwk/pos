@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.</Value>
+    </Setting>
+    <Setting Name="dbname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cKT1MTYpaw8=</Value>
+    </Setting>
+    <Setting Name="user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lFRRYWD0RfM=</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SXATVQXDiRfEhqQ99+Z9/A==</Value>
+    </Setting>
+    <Setting Name="kodekasir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">01</Value>
+    </Setting>
+    <Setting Name="printername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft XPS Document Writer</Value>
+    </Setting>
+    <Setting Name="namatoko" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UD. MAJU MUNDUR</Value>
+    </Setting>
+    <Setting Name="alamattoko" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JL. BUNG KARNO 143 PAGUTAN</Value>
+    </Setting>
+    <Setting Name="kota" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MATARAM</Value>
+    </Setting>
+    <Setting Name="notelp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">641644</Value>
+    </Setting>
+    <Setting Name="npwp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1234567890</Value>
+    </Setting>
+    <Setting Name="paper_width" Type="System.String" Scope="User">
+      <Value Profile="(Default)">80mm</Value>
+    </Setting>
+    <Setting Name="show_last_transaction" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T</Value>
+    </Setting>
+    <Setting Name="extend_display" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T</Value>
+    </Setting>
+    <Setting Name="extend_display_index" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
